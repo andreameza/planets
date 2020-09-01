@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Cris: It is so a planet!
+=======
+It is so a planet!
+>>>>>>> ad6d882e38c7dc9237adb138692d5cbcc91a637f
+
+que pedo
+
